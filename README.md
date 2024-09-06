@@ -5,31 +5,11 @@ q2_debug and q2_opt. We can use make to build running binaries for both question
 
 # Commands for Q1:
 
-make q1_debug
+$ make q1_debug
 
 ##
 
-./q1_debug
-
-##
-
-    OR
-
-##
-
-make
-
-##
-
-./q1_debug
-
-# Commands for Q2:
-
-make q2_debug
-
-##
-
-./q2_debug
+$ ./q1_debug
 
 ##
 
@@ -37,9 +17,28 @@ OR
 
 ##
 
-make
+$ make
 
 ##
 
-./q2_debug
+$ ./q1_debug
 
+# Commands for Q2:
+
+$ make q2_debug
+
+##
+
+$ ./q2_debug
+
+##
+
+OR
+
+##
+
+$ make
+
+##
+
+$ ./q2_debug
