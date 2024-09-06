@@ -3,13 +3,13 @@
 
 #ignore binaries
 q1-debug
-q1-optimized
+q1-opt
 q2-debug
-q2-optimized
+q2-opt
 
 # Ignore temporary files just for safety
 *.log
 *.tmp
 *.swp
 
-
+.vscode
