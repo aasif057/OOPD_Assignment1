@@ -2,10 +2,10 @@
 *.o
 
 #ignore binaries
-q1-debug
-q1-opt
-q2-debug
-q2-opt
+q1_debug
+q1_opt
+q2_debug
+q2_opt
 
 # Ignore temporary files just for safety
 *.log
