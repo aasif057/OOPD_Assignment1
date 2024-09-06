@@ -1,0 +1,15 @@
+#ignore objec files
+*.o
+
+#ignore binaries
+q1-debug
+q1-optimized
+q2-debug
+q2-optimized
+
+# Ignore temporary files just for safety
+*.log
+*.tmp
+*.swp
+
+
